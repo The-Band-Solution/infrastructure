@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   # 🚀 Neo4j: Banco de grafos
   neo4j:
