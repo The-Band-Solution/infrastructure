@@ -103,6 +103,4 @@ All services are connected to the `theband-network`, allowing seamless integrati
 * Docker Compose
 
 ---
-
-
-Atualizando via codewise e automatizando.
+teste
