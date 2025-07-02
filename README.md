@@ -103,4 +103,3 @@ All services are connected to the `theband-network`, allowing seamless integrati
 * Docker Compose
 
 ---
-teste
